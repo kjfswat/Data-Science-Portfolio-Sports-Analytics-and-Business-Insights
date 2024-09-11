@@ -18,8 +18,10 @@ In this project, I developed machine learning models to predict player performan
 - Forecasted metrics for players such as Mike Evans and Chris Godwin, providing insights into game strategy for the upcoming season.
 - Developed visual dashboards comparing player performance across NFC South teams.
 
-👉 [View Notebook](./path/to/Bucs.ipynb)
-👉 [View Notebook](./path/to/Bucs_2.ipynb)
+👉 [View Bucs Season Forecasting Notebook](https://github.com/kjfswat/Data-Science-Portfolio-Sports-Analytics-and-Business-Insights/blob/main/Bucs.ipynb)
+
+👉 [View Bucs Season Forecasting Notebook](https://github.com/kjfswat/Data-Science-Portfolio-Sports-Analytics-and-Business-Insights/blob/main/Bucs_2.ipynb)
+
 
 ---
 
@@ -37,7 +39,8 @@ This project involved a deep-dive analysis of Ideal Image, a leading medical aes
 - Identified opportunities to enhance customer engagement through targeted social media campaigns.
 - Developed churn prediction models to help Ideal Image reduce customer attrition and improve retention strategies.
 
-👉 [View Notebook](./path/to/Ideal_Image_Analysis.ipynb)
+👉 [View Ideal Image SWOT Analysis Notebook](https://github.com/kjfswat/Data-Science-Portfolio-Sports-Analytics-and-Business-Insights/blob/main/Ideal_Image_Analysis.ipynb)
+
 
 ---
 

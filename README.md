@@ -1,31 +1,57 @@
-# Sample_Work
-# Sample_Work: Showcase of Analytics
+# Kevin Fitzgerald - Data Scientist Specializing in Predictive Analytics & Machine Learning
 
-## Overview
-This repository contains a collection of Jupyter Notebooks designed to demonstrate data analytics skills, focusing on various analytical techniques. The purpose of this repository is to showcase my ability to work with data, build visualizations, and perform statistical analysis on diverse datasets.
+Welcome to my GitHub! I am a Data Scientist with over 11 years of experience in predictive modeling, advanced analytics, and machine learning. This repository showcases some of my recent projects, including NFL player performance forecasting and a comprehensive SWOT analysis for a leading medical aesthetics company. I focus on using data to drive strategic business decisions and predictive insights.
 
-## Features
-- **Bucs.ipynb**: Analysis of [describe dataset], performing data cleaning, exploratory data analysis, and visual representation of key metrics.
-- **Ideal_Image_Analysis.ipynb**: Focuses on image data processing and analysis, utilizing advanced techniques to interpret image datasets.
-- **Bucs_2.ipynb**: A continuation of the Bucs project, delving deeper into trends, predictive modeling, and insights.
+---
 
-## Technologies Used
-- **Jupyter Notebook**: The main platform for executing and presenting code.
-- **Python**: For data analysis using libraries such as Pandas, NumPy, and Matplotlib.
-- **Image Analysis Libraries**: Used in the Ideal Image Analysis notebook to manipulate and analyze image data.
+## 🏈 Tampa Bay Buccaneers 2024-2025 Season Forecasting
 
-## Getting Started
-To run the notebooks locally, follow these steps:
+### Project Overview:
+In this project, I developed machine learning models to predict player performance for the 2024-2025 NFL season, specifically focusing on key metrics like receptions, yards, and touchdowns. By analyzing historical data from sources like NFL Next Gen Stats, I was able to forecast key players' contributions and overall team performance.
 
-```bash
-# Clone the repository
-git clone https://github.com/kjfswat/Sample_Work.git
+**Tools & Techniques:**
+- Python (Pandas, Scikit-learn)
+- Machine Learning Models: Random Forest, Gradient Boosting
+- Data Visualization: Matplotlib, Seaborn
 
-# Navigate into the directory
-cd Sample_Work
+**Key Insights:**
+- Forecasted metrics for players such as Mike Evans and Chris Godwin, providing insights into game strategy for the upcoming season.
+- Developed visual dashboards comparing player performance across NFC South teams.
 
-# Install necessary dependencies
-pip install -r requirements.txt
+👉 [View Notebook](./path/to/Bucs.ipynb)
+👉 [View Notebook](./path/to/Bucs_2.ipynb)
 
-# Run the notebooks
-jupyter notebook
+---
+
+## 🏢 Ideal Image SWOT Analysis & Strategy
+
+### Project Overview:
+This project involved a deep-dive analysis of Ideal Image, a leading medical aesthetics company. I conducted a comprehensive SWOT analysis and developed data-driven strategy recommendations for customer retention and market expansion. Leveraging historical customer acquisition data, I identified trends and proposed actionable steps to improve operational efficiency.
+
+**Tools & Techniques:**
+- Python (Pandas, Scikit-learn)
+- Data Visualization: Matplotlib, Seaborn
+- SWOT Analysis
+
+**Key Insights:**
+- Identified opportunities to enhance customer engagement through targeted social media campaigns.
+- Developed churn prediction models to help Ideal Image reduce customer attrition and improve retention strategies.
+
+👉 [View Notebook](./path/to/Ideal_Image_Analysis.ipynb)
+
+---
+
+## 🔧 Technologies I Work With:
+- **Languages:** Python, SQL, R
+- **Data Science Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+- **Machine Learning:** Supervised Learning, Unsupervised Learning, Feature Engineering, Predictive Modeling
+- **Data Visualization:** Tableau, Matplotlib, Seaborn
+- **Data Engineering:** Data Pipeline Design, ETL, Azure, AWS, Databricks
+
+Feel free to explore these projects, and don’t hesitate to reach out if you have any questions or would like to collaborate on future projects!
+
+---
+
+## 📬 Get In Touch
+- **LinkedIn:** [Kevin Fitzgerald](https://www.linkedin.com/in/kevinfitzgerald/)
+- **Email:** hirekevinfitz@gmail.com

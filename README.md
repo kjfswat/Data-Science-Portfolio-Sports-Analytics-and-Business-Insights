@@ -12,6 +12,8 @@ This notebook contains a comprehensive analysis and predictive modeling for the 
 - **Objective:** Provide data-driven recommendations for improving team performance based on statistical analysis and machine learning predictions.
 
 [View Notebook](https://github.com/kjfswat/Data-Science-Portfolio-Sports-Analytics-and-Business-Insights/blob/main/Bucs.ipynb)
+[View Notebook](https://github.com/kjfswat/Data-Science-Portfolio-Sports-Analytics-and-Business-Insights/blob/main/Bucs_2.ipynb)
+
 
 ### 2. Ideal Image SWOT and Strategy Analysis
 This notebook focuses on analyzing the business model of Ideal Image, offering strategic recommendations through a detailed SWOT analysis. The project integrates business data to provide insights on customer behavior and business opportunities.
